@@ -1,4 +1,4 @@
-# I Love Men ONG's GitHub Page 🚀
+# **I Love Men ONG** GitHub Page 🚀
 
 Welcome to my GitHub profile!
 ## Fun Fact
@@ -9,7 +9,5 @@ Feel free to reach out and collaborate on exciting projects! 🚀
 
 ---
 
-👇 **Check this out!**
 
-```plaintext
-🔥 Fun Fact: Coding is my superpower! 💻✨
+
